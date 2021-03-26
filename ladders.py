@@ -4,7 +4,7 @@ import urllib
 import os
 import re
 
-write_to_file = False
+write_to_file = True
 
 
 def get_ladder(dir_name, url):
