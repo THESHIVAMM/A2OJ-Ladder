@@ -12,7 +12,7 @@
 |<ul><li>- [ ] Done</li></ul>|5|[Helpful Maths](http://codeforces.com/problemset/problem/339/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|6|[Twins](http://codeforces.com/problemset/problem/160/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|7|[Chat room](http://codeforces.com/problemset/problem/58/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|8|[Lucky Division](http://codeforces.com/problemset/problem/122/A)|Codeforces|2|
+|<ul><li>- <input type="checkbox"> [ ] Done</li></ul>|8|[Lucky Division](http://codeforces.com/problemset/problem/122/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|9|[Presents](http://codeforces.com/problemset/problem/136/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|10|[Beautiful Matrix](http://codeforces.com/problemset/problem/263/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|11|[Arrival of the General](http://codeforces.com/problemset/problem/144/A)|Codeforces|1|
